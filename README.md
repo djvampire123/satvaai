@@ -1,4 +1,5 @@
 # Satva.ai
+![logo](satva-svg.svg)
 
 Welcome to the repository for the Satva.ai website! This project represents my first foray into web development, showcasing a dynamic and responsive website designed to promote wellness and mindfulness through AI-driven insights.
 
